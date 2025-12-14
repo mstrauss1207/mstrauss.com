@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a position as Research Scientist at [Mirelo AI](www.mirelo.ai)
+Started a position as Research Scientist at [Mirelo AI](https://www.mirelo.ai)

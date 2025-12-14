@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MireloSFX now provides audio generation for all video generation models on [fal.ai](fal.ai) 
+MireloSFX now provides audio generation for all video generation models on [fal.ai](https://www.fal.ai) 
